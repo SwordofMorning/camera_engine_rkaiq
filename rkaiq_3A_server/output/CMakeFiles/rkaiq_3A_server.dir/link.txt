@@ -1,0 +1,1 @@
+/home/xjt/_Workspace_/System/rk3588-linux/buildroot/output/rockchip_rk3588/host/bin/aarch64-buildroot-linux-gnu-g++   -Wall -std=c++11 -fPIC -O3 -DNDEBUG  -rdynamic CMakeFiles/rkaiq_3A_server.dir/rkaiq_3A_server.cpp.o CMakeFiles/rkaiq_3A_server.dir/common/mediactl/mediactl.c.o  -o rkaiq_3A_server -lpthread -ldl 

@@ -1,0 +1,7 @@
+/home/xjt/_Workspace_/VOC/camera_engine_rkaiq/rkaiq_3A_server/output/CMakeFiles/install/strip.dir
+/home/xjt/_Workspace_/VOC/camera_engine_rkaiq/rkaiq_3A_server/output/CMakeFiles/edit_cache.dir
+/home/xjt/_Workspace_/VOC/camera_engine_rkaiq/rkaiq_3A_server/output/CMakeFiles/rkaiq_3A_server.dir
+/home/xjt/_Workspace_/VOC/camera_engine_rkaiq/rkaiq_3A_server/output/CMakeFiles/list_install_components.dir
+/home/xjt/_Workspace_/VOC/camera_engine_rkaiq/rkaiq_3A_server/output/CMakeFiles/install/local.dir
+/home/xjt/_Workspace_/VOC/camera_engine_rkaiq/rkaiq_3A_server/output/CMakeFiles/rebuild_cache.dir
+/home/xjt/_Workspace_/VOC/camera_engine_rkaiq/rkaiq_3A_server/output/CMakeFiles/install.dir

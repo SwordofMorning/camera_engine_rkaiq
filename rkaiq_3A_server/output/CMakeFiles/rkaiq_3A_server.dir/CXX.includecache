@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/xjt/_Workspace_/VOC/camera_engine_rkaiq/rkaiq_3A_server/common/mediactl/mediactl.h
+linux/media.h
+-
+
+/home/xjt/_Workspace_/VOC/camera_engine_rkaiq/rkaiq_3A_server/rkaiq_3A_server.cpp
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+getopt.h
+-
+fcntl.h
+-
+inttypes.h
+-
+unistd.h
+-
+errno.h
+-
+sys/ioctl.h
+-
+pthread.h
+-
+linux/videodev2.h
+-
+uAPI2/rk_aiq_user_api2_sysctl.h
+/home/xjt/_Workspace_/VOC/camera_engine_rkaiq/rkaiq_3A_server/uAPI2/rk_aiq_user_api2_sysctl.h
+common/mediactl/mediactl.h
+/home/xjt/_Workspace_/VOC/camera_engine_rkaiq/rkaiq_3A_server/common/mediactl/mediactl.h
+
